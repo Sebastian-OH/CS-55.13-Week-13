@@ -1,0 +1,57 @@
+[
+    
+    { 
+      "id": "1",
+      "owner": "6",
+      "hobbies": "Art"
+    },
+    { 
+      "id": "2",
+      "owner": "8",
+      "hobbies": "Dancing"
+    },
+    { 
+      "id": "3",
+      "owner": "5",
+      "hobbies": "Traveling"
+    },
+    { 
+      "id": "4",
+      "owner": "7",
+      "hobbies": "Exercise"
+    },
+    { 
+       "id": "4",
+       "owner": "6",
+       "hobbies": "Outdoor Interests"
+    },
+    { 
+        "id": "5",
+        "owner": "6",
+        "hobbies": "Cooking"
+      },
+      { 
+        "id": "6",
+        "owner": "8",
+        "hobbies": "Photography"
+      },
+      { 
+        "id": "7",
+        "owner": "5",
+        "hobbies": "Hiking"
+      },
+      { 
+        "id": "8",
+        "owner": "7",
+        "hobbies": "Music"
+      },
+      { 
+         "id": "8",
+         "owner": "5",
+         "hobbies": "Sports"
+      }
+    
+]
+
+
+

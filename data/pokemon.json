@@ -1,0 +1,46 @@
+[
+    { 
+      "name": "Charizard",
+      "health": "150HP",
+      "moveOne": "Firespin: 150",
+      "moveTwo": "Incinerate: 90", 
+      "weakness": "Water",
+      "resistance": "Fire",
+      "photo": "https://e0.pxfuel.com/wallpapers/596/600/desktop-wallpaper-pokemon-charizard-and-mobile-background-black-charizard.jpg",
+      "photoAlt": "Photo of Charizard",
+      "id": 1
+    },
+    { 
+        "name": "Pikachu",
+        "health": "190HP",
+        "moveOne": "Thunderbolt: 90",
+        "moveTwo": "G-Max Volt Tackle: 120", 
+        "weakness": "Ground",
+        "resistance": "Steel",
+        "photo": "https://e1.pxfuel.com/desktop-wallpaper/311/735/desktop-wallpaper-dark-pikachu-pikachu-black.jpg",
+        "photoAlt": "Photo of Pikachu",
+        "id": 2
+    },
+    { 
+        "name": "Garbodor",
+        "health": "120HP",
+        "moveOne": "Acid Spray: 70",
+        "moveTwo": "Sludge Bomb: 90", 
+        "weakness": "Psychic",
+        "resistance": "Bug",
+        "photo": "https://img.pokemondb.net/sprites/home/normal/2x/garbodor.jpg",
+        "photoAlt": "Photo of Garbodor",
+        "id": 3
+    },
+    { 
+        "name": "Dialga",
+        "health": "240HP",
+        "moveOne": "Reverse Edge: 90",
+        "moveTwo": "Roar of Time: 180", 
+        "weakness": "Fighting",
+        "resistance": "Water",
+        "photo": "https://staticg.sportskeeda.com/editor/2021/06/eaa0d-16230538764534-800.jpg",
+        "photoAlt": "Photo of Dialga",
+        "id": 4
+    }
+  ]
